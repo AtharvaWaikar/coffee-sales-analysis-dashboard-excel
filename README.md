@@ -101,6 +101,9 @@ All visuals update dynamically based on slicer selections.
 - Monthly trends show demand fluctuations  
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot](Coffee%20Sales%20Analysis%20Screenshot.jpg)
 
 ## 🛠 Tools & Skills Used
 
